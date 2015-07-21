@@ -1,6 +1,6 @@
-# HttpPostAfterSurverComplete LimeSurvey Extension
+# HttpPostAfterSurveyComplete
 
-This plugin will HTTP POST a summary of each survey result to a server of your choice. This is ideal when you want to integrate limesurvey questionaires with other processes.
+This is an extension for [LimeSurvey](https://www.limesurvey.org/). It will HTTP POST a summary of each survey result to a server of your choice. This is ideal when you want to integrate limesurvey questionaires with other processes.
 
 ## Install
 
